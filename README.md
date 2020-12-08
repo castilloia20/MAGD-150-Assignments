@@ -23,3 +23,9 @@ _This Lab 4 project shows a slice of pizza with pepperoni that's controlled with
 [Lab 4 soruce code here!](https://github.com/castilloia20/MAGD-150-Assignments/blob/gh-pages/f20magd150lab04_CastilloCano/sketch.js)
 
 [HTML for Lab 4 here!](https://github.com/castilloia20/MAGD-150-Assignments/blob/gh-pages/f20magd150lab04_CastilloCano/index.html)
+
+>_**Lab 10**_
+
+_This Lab 10 project was about showing 3D models and moving them around to different angles with sliders below_
+
+[The Lab 10 source code](https://github.com/castilloia20/MAGD-150-Assignments/blob/gh-pages/f20magd150lab10_castillocano/sketch.js)
