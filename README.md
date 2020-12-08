@@ -21,3 +21,5 @@ _This Lab 5 project is all about showing a tv with the on and off buttons and sh
 _This Lab 4 project shows a slice of pizza with pepperoni that's controlled with your mouse_
 
 [Lab 4 soruce code here!](https://github.com/castilloia20/MAGD-150-Assignments/blob/gh-pages/f20magd150lab04_CastilloCano/sketch.js)
+
+[HTML for Lab 4 here!](https://github.com/castilloia20/MAGD-150-Assignments/blob/gh-pages/f20magd150lab04_CastilloCano/index.html)
