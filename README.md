@@ -14,4 +14,4 @@ _This Lab 5 project is all about showing a tv with the on and off buttons and sh
 
 [The soruce code is right here!](https://github.com/castilloia20/MAGD-150-Assignments/blob/gh-pages/f20magd150lab05_castillocano/sketch.js)
 
-[Lab 5 HTML here!]
+[Lab 5 HTML here!](https://github.com/castilloia20/MAGD-150-Assignments/blob/gh-pages/f20magd150lab05_castillocano/index.html)
