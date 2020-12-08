@@ -7,3 +7,9 @@ _This Lab 7 project is supposed to show a bird that's flying around in nature, w
 [Check out the source code right here!](https://github.com/castilloia20/MAGD-150-Assignments/blob/gh-pages/f20magd150lab07_castillocano/sketch.js)
 
 [View HTML here](https://github.com/castilloia20/MAGD-150-Assignments/blob/gh-pages/f20magd150lab07_castillocano/index.html)
+
+>_**Lab 5**_
+
+_This Lab 5 project is all about showing a tv with the on and off buttons and showing something on screen_
+
+[The soruce code is right here!]
