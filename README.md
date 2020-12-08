@@ -31,3 +31,9 @@ _This Lab 10 project was about showing 3D models and moving them around to diffe
 [The Lab 10 source code](https://github.com/castilloia20/MAGD-150-Assignments/blob/gh-pages/f20magd150lab10_castillocano/sketch.js)
 
 [The HTML for Lab 10](https://github.com/castilloia20/MAGD-150-Assignments/blob/gh-pages/f20magd150lab10_castillocano/index.html)
+
+>_**Lab 9**_
+
+_This Lab 9 project showed how you can play music and use the devices camera to show what the camera sees and an altered form of it_
+
+[Lab 9 source code right here!](https://github.com/castilloia20/MAGD-150-Assignments/blob/gh-pages/f20magd150lab09_castillocano/sketch.js)
